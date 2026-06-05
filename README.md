@@ -1,17 +1,16 @@
 <div align="center">
-  <h1>
-    HELLO
-  </h1>
-  <h2>
-    I'm just messing with random stuff right now.
-  </h2>
-  <hr>
+  
+  <hr/>
+  <img src="pixel-art.png" width="25%" align="right" />
   <pre>
     Music • Anime • Code • Pixel art • Games
     📁Questionable Web Development📂
     📼Phisical Media RAAAHHH💾
     🥱Place😕
-    🏮<em>Place Japan<em>💮
+    🏮<em>Place Japan</em>💮
+    ⚪Proud Zen browser user⚫
+    💜東方のファン💙
   </pre>
-  <hr>
+  <hr/>
+  
 </div>
